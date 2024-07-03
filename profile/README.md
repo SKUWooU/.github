@@ -1,9 +1,11 @@
-<p align="center">
-## 서경대학교 졸업프로젝트 - 온보딩티켓
-</p>
-<p align="center">
+### 서경대학교 졸업프로젝트 - 온보딩티켓
+
+##로고
+<p align="left">
   <img src="https://github.com/SKUWooU/.github/assets/126756270/453866d6-8496-413a-87c5-4f90934f3e88">
 </p>
+
+
 
 <!--
 
