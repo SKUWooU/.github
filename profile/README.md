@@ -1,6 +1,6 @@
 ## 서경대학교 졸업프로젝트 - 온보딩티켓
 <p align="center">
-  <img src+"https://github.com/SKUWooU/.github/assets/126756270/87c1bddc-5bd4-4fc7-a028-14de12bc68d9">
+  <img src="https://github.com/SKUWooU/.github/assets/126756270/87c1bddc-5bd4-4fc7-a028-14de12bc68d9">
 </p>
 
 <!--
