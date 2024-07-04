@@ -41,7 +41,7 @@
 
 
 ## 시연영상
-[![유튜브링크](https://youtu.be/QWxK0tgqDms)]
+[![유튜브링크](https://github.com/SKUWooU/.github/assets/126756270/b355ad09-ecf8-4e99-ae56-45fca7d77c2f)](https://youtu.be/QWxK0tgqDms)
 
 <!--
 
