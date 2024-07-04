@@ -41,7 +41,7 @@
 
 
 ## 시연영상
-- [노션링크](https://www.notion.so/b3497643018747a9b9c5a55d181f1469?pvs=4)
+[![유튜브링크](https://youtu.be/QWxK0tgqDms)]
 
 <!--
 
