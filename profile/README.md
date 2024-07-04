@@ -3,14 +3,18 @@
   <img src="https://github.com/SKUWooU/.github/assets/126756270/453866d6-8496-413a-87c5-4f90934f3e88">
 </p>
 
+
 ## 프로젝트 개요
-- 현재 많은 서비스들이 대용량 데이터를 처리하는 기술을 활용하고 있습니다. 이러한 트렌드를 반영하여, KOPIS( 공연예술 통합전산망 )의 Open API를 활용하여 대용량 데이터를 효율적으로 처리하는 서비스를 구축하는 것을 목표로 합니다. 
+- 현재 많은 서비스들이 대용량 데이터를 처리하는 기술을 활용하고 있습니다. 이러한 트렌드를 반영하여, Spring Batch를 이용하여 KOPIS의 공공데이터를 주기적으로 크롤링하고 DB를 업데이트 하는 시스템을 구축했습니다.
+- 대규모 트래픽이 발생할 경우 부하분산과 성능 향상을 위해서 웹 어플리케이션 서버를 이중화 구축했습니다.
 
 ## 아키텍처
 <p align="left">
-  <img src="https://github.com/SKUWooU/.github/assets/126756270/721803e0-ae67-4ecd-9f4b-a7abc39ed05a" width="200" height="200">
+  <img src="https://github.com/SKUWooU/.github/assets/126756270/15f923ad-6627-42af-8a90-ebb0000c1437" width="300" height="400">
 </p>
 
+
+## 
 
 <!--
 
