@@ -42,7 +42,7 @@
 
 ## 시연영상
 <p>
-  <img src="[김온유_박건우(시연영상).mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/496f5d14-c69d-4016-a9d0-9951eb339f0d/e1428687-e85a-4a68-8baf-f42b98e38d19/%EA%B9%80%EC%98%A8%EC%9C%A0_%EB%B0%95%EA%B1%B4%EC%9A%B0(%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81).mp4)">
+  <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/496f5d14-c69d-4016-a9d0-9951eb339f0d/e1428687-e85a-4a68-8baf-f42b98e38d19/%EA%B9%80%EC%98%A8%EC%9C%A0_%EB%B0%95%EA%B1%B4%EC%9A%B0(%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81).mp4">
 </p>
 
 <!--
