@@ -10,7 +10,7 @@
 
 ## 아키텍처
 <p align="left">
-  <img src="https://github.com/SKUWooU/.github/assets/126756270/15f923ad-6627-42af-8a90-ebb0000c1437" width="300" height="400">
+  <img src="https://github.com/SKUWooU/.github/assets/126756270/1befaa8e-f148-45cf-98be-0efa0349b9f2" width="300" height="400">
 </p>
 
 
