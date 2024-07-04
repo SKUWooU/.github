@@ -8,7 +8,7 @@
 
 ## 아키텍처
 <p align="left">
-  <img src="https://github.com/SKUWooU/.github/assets/126756270/721803e0-ae67-4ecd-9f4b-a7abc39ed05a">
+  <img src="https://github.com/SKUWooU/.github/assets/126756270/721803e0-ae67-4ecd-9f4b-a7abc39ed05a" width="200" height="200">
 </p>
 
 
